@@ -4,6 +4,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: make install
+        run: yarn
       - name: lint
         run: make lint
 
