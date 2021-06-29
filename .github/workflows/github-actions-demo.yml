@@ -3,9 +3,15 @@ on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    strategy:
+      # Node versions list
+      matrix:
+        node-version: [14.x]
+
     steps:
       - name: make install
-        run: yarn
+        run: name install
       - name: lint
         run: make lint
 
