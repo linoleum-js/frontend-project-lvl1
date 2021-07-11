@@ -4,4 +4,5 @@
 [![example workflow](https://github.com/linoleum-js/frontend-project-lvl1/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/linoleum-js/frontend-project-lvl1/actions)
 
 
-[https://asciinema.org/a/bN8NneA0Zbnj0XZm6J9BilBur](https://asciinema.org/a/bN8NneA0Zbnj0XZm6J9BilBur)
+[lesson 5 demo](https://asciinema.org/a/bN8NneA0Zbnj0XZm6J9BilBur)
+[lesson 6 demo](https://asciinema.org/connect/a264ecb2-edbf-4e8b-96cd-88e25d33e904)
