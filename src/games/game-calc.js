@@ -9,7 +9,7 @@ const getRigthAnswer = (left, right, operator) => [
   (a, b) => a * b,
 ][operator](left, right);
 
-const gameEven = () => {
+const gameCalc = () => {
   const operators = ['+', '-', '*'];
   const operator = rand(3);
   const numberLeft = rand(100);
@@ -24,4 +24,4 @@ const gameEven = () => {
 
 const title = 'What is the result of the expression?';
 
-export default () => game(gameEven, title);
+export default () => game(gameCalc, title);

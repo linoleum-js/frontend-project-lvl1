@@ -11,7 +11,7 @@ const gcd = (a, b) => {
   return gcd(b, a % b);
 };
 
-const gameEven = () => {
+const gameGcd = () => {
   const a = rand(100);
   const b = rand(100);
 
@@ -24,4 +24,4 @@ const gameEven = () => {
 
 const title = 'Find the greatest common divisor of given numbers.';
 
-export default () => game(gameEven, title);
+export default () => game(gameGcd, title);

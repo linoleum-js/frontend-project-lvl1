@@ -8,4 +8,5 @@
 [lesson 6 demo](https://asciinema.org/a/424880)
 [lesson 7 demo](https://asciinema.org/a/424881)
 [lesson 8 demo](https://asciinema.org/a/424885)
+[lesson 9 demo](https://asciinema.org/a/424887)
 
