@@ -11,7 +11,7 @@ const getRigthAnswer = (left, right, operator) => [
 
 const gameCalc = () => {
   const operators = ['+', '-', '*'];
-  const operator = rand(3);
+  const operator = rand(operators.length);
   const numberLeft = rand(100);
   const numberRight = rand(100);
 

@@ -18,7 +18,8 @@ const hideElement = (progression, hiddenIndex) => {
 };
 
 const gameEven = () => {
-  const length = rand(10) + 5;
+  const minLength = 5;
+  const length = rand(10) + minLength;
   const start = rand(10);
   const d = rand(10);
   const hiddenIndex = rand(length);
